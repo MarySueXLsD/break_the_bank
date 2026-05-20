@@ -1,0 +1,8 @@
+export/
+.haxelib/
+*.swf
+*.dll
+*.dylib
+*.so
+*.exe
+.DS_Store
